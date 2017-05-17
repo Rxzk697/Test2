@@ -28,7 +28,7 @@ public class Test2java {
 			else {times=0;}
 		
 		}while (times==0);
-		
+		//
 		
 		double checks=0;
 		for(int x = 0 ; x<list.size(); x++){
